@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "leofei01",
+    "description": "Deploy leofei01 on Hero.",
+    "keywords": ["leofei01"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -17,6 +17,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "repository": "https://github.com/0101777/leofei01",
     "stack": "container"
 }
